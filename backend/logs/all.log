@@ -32,3 +32,50 @@
 2026-06-13 12:32:25:3225 [32minfo[39m: [32m📡 API available at http://localhost:5000/api[39m
 2026-06-13 12:32:25:3225 [32minfo[39m: [32m❤️  Health check: http://localhost:5000/api/health[39m
 2026-06-13 13:37:19:3719 [33mwarn[39m: [33mMongoDB disconnected[39m
+2026-06-13 14:35:45:3545 [32minfo[39m: [32m✅ MongoDB Connected: ac-lyyd0db-shard-00-00.wlam0fx.mongodb.net[39m
+2026-06-13 14:35:45:3545 [32minfo[39m: [32m🚀 Server running in development mode on port 5000[39m
+2026-06-13 14:35:45:3545 [32minfo[39m: [32m📡 API available at http://localhost:5000/api[39m
+2026-06-13 14:35:45:3545 [32minfo[39m: [32m❤️  Health check: http://localhost:5000/api/health[39m
+2026-06-13 14:59:48:5948 [33mwarn[39m: [33mMongoDB disconnected[39m
+2026-06-13 15:02:17:217 [33mwarn[39m: [33mMongoDB disconnected[39m
+2026-06-14 14:30:34:3034 [32minfo[39m: [32m✅ MongoDB Connected: ac-lyyd0db-shard-00-00.wlam0fx.mongodb.net[39m
+2026-06-14 14:30:34:3034 [32minfo[39m: [32m🚀 Server running in development mode on port 5000[39m
+2026-06-14 14:30:34:3034 [32minfo[39m: [32m📡 API available at http://localhost:5000/api[39m
+2026-06-14 14:30:34:3034 [32minfo[39m: [32m❤️  Health check: http://localhost:5000/api/health[39m
+2026-06-14 14:32:01:321 [33mwarn[39m: [33mMongoDB disconnected[39m
+2026-06-14 14:34:28:3428 [32minfo[39m: [32m✅ MongoDB Connected: ac-lyyd0db-shard-00-00.wlam0fx.mongodb.net[39m
+2026-06-14 14:34:29:3429 [32minfo[39m: [32m🚀 Server running in development mode on port 5000[39m
+2026-06-14 14:34:29:3429 [32minfo[39m: [32m📡 API available at http://localhost:5000/api[39m
+2026-06-14 14:34:29:3429 [32minfo[39m: [32m❤️  Health check: http://localhost:5000/api/health[39m
+2026-06-14 14:35:31:3531 [33mwarn[39m: [33mMongoDB disconnected[39m
+2026-06-14 14:39:49:3949 [32minfo[39m: [32m✅ MongoDB Connected: ac-lyyd0db-shard-00-00.wlam0fx.mongodb.net[39m
+2026-06-14 14:39:49:3949 [32minfo[39m: [32m🚀 Server running in development mode on port 5000[39m
+2026-06-14 14:39:49:3949 [32minfo[39m: [32m📡 API available at http://localhost:5000/api[39m
+2026-06-14 14:39:49:3949 [32minfo[39m: [32m❤️  Health check: http://localhost:5000/api/health[39m
+2026-06-14 14:40:37:4037 [33mwarn[39m: [33mMongoDB disconnected[39m
+2026-06-14 14:44:50:4450 [33mwarn[39m: [33mMongoDB disconnected[39m
+2026-06-14 14:48:56:4856 [32minfo[39m: [32m✅ MongoDB Connected: ac-lyyd0db-shard-00-00.wlam0fx.mongodb.net[39m
+2026-06-14 14:48:56:4856 [32minfo[39m: [32m🚀 Server running in development mode on port 5000[39m
+2026-06-14 14:48:56:4856 [32minfo[39m: [32m📡 API available at http://localhost:5000/api[39m
+2026-06-14 14:48:56:4856 [32minfo[39m: [32m❤️  Health check: http://localhost:5000/api/health[39m
+2026-06-14 15:06:10:610 [33mwarn[39m: [33mMongoDB disconnected[39m
+2026-06-14 15:08:30:830 [33mwarn[39m: [33mMongoDB disconnected[39m
+2026-06-14 15:12:16:1216 [33mwarn[39m: [33mMongoDB disconnected[39m
+2026-06-14 15:31:58:3158 [33mwarn[39m: [33mMongoDB disconnected[39m
+2026-06-14 19:11:37:1137 [33mwarn[39m: [33mMongoDB disconnected[39m
+2026-06-14 19:17:09:179 [33mwarn[39m: [33mMongoDB disconnected[39m
+2026-06-14 20:03:26:326 [33mwarn[39m: [33mMongoDB disconnected[39m
+2026-06-14 20:06:36:636 [33mwarn[39m: [33mMongoDB disconnected[39m
+2026-06-14 20:07:25:725 [33mwarn[39m: [33mMongoDB disconnected[39m
+2026-06-16 20:04:24:424 [32minfo[39m: [32m✅ MongoDB Connected: ac-lyyd0db-shard-00-00.wlam0fx.mongodb.net[39m
+2026-06-16 20:04:24:424 [32minfo[39m: [32m🚀 Server running in development mode on port 5000[39m
+2026-06-16 20:04:24:424 [32minfo[39m: [32m📡 API available at http://localhost:5000/api[39m
+2026-06-16 20:04:24:424 [32minfo[39m: [32m❤️  Health check: http://localhost:5000/api/health[39m
+2026-06-16 20:05:13:513 [31merror[39m: [31m401 - Not authorized. Please login to access this route. - /api/admin/dashboard - GET - ::1[39m
+2026-06-16 20:05:13:513 [31merror[39m: [31m401 - Not authorized. Please login to access this route. - /api/admin/dashboard - GET - ::1[39m
+2026-06-16 20:05:20:520 [31merror[39m: [31m401 - Not authorized. Please login to access this route. - /api/admin/dashboard - GET - ::1[39m
+2026-06-16 20:05:20:520 [31merror[39m: [31m401 - Not authorized. Please login to access this route. - /api/admin/dashboard - GET - ::1[39m
+2026-06-16 20:05:25:525 [31merror[39m: [31m401 - Not authorized. Please login to access this route. - /api/admin/dashboard - GET - ::1[39m
+2026-06-16 20:05:25:525 [31merror[39m: [31m401 - Not authorized. Please login to access this route. - /api/admin/dashboard - GET - ::1[39m
+2026-06-16 20:06:13:613 [31merror[39m: [31m401 - Not authorized. Please login to access this route. - /api/admin/dashboard - GET - ::1[39m
+2026-06-16 20:06:13:613 [31merror[39m: [31m401 - Not authorized. Please login to access this route. - /api/admin/dashboard - GET - ::1[39m

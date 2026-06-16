@@ -10,3 +10,11 @@
 2026-06-13 12:31:05:315 [31merror[39m: [31mUncaught Exception: listen EADDRINUSE: address already in use :::5000[39m
 2026-06-13 12:31:21:3121 [31merror[39m: [31mUncaught Exception: listen EADDRINUSE: address already in use :::5000[39m
 2026-06-13 12:31:48:3148 [31merror[39m: [31mUncaught Exception: listen EADDRINUSE: address already in use :::5000[39m
+2026-06-16 20:05:13:513 [31merror[39m: [31m401 - Not authorized. Please login to access this route. - /api/admin/dashboard - GET - ::1[39m
+2026-06-16 20:05:13:513 [31merror[39m: [31m401 - Not authorized. Please login to access this route. - /api/admin/dashboard - GET - ::1[39m
+2026-06-16 20:05:20:520 [31merror[39m: [31m401 - Not authorized. Please login to access this route. - /api/admin/dashboard - GET - ::1[39m
+2026-06-16 20:05:20:520 [31merror[39m: [31m401 - Not authorized. Please login to access this route. - /api/admin/dashboard - GET - ::1[39m
+2026-06-16 20:05:25:525 [31merror[39m: [31m401 - Not authorized. Please login to access this route. - /api/admin/dashboard - GET - ::1[39m
+2026-06-16 20:05:25:525 [31merror[39m: [31m401 - Not authorized. Please login to access this route. - /api/admin/dashboard - GET - ::1[39m
+2026-06-16 20:06:13:613 [31merror[39m: [31m401 - Not authorized. Please login to access this route. - /api/admin/dashboard - GET - ::1[39m
+2026-06-16 20:06:13:613 [31merror[39m: [31m401 - Not authorized. Please login to access this route. - /api/admin/dashboard - GET - ::1[39m
